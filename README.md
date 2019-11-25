@@ -67,3 +67,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # WeatherAppReactJS
+
+sudo chmod -R 777 testproject    //da permisos sobre folder
+vscose-icons //plugin para iconos en visual studio code
+Reacts code snippets // ayuda escribir y autoacompletar código
+http://erikflowers.github.io/weather-icons/ // se descarga los css del clima
+npm install —save react-weather-icons
+https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css
+
+En la rutas “../” significa que subiremos un nivel de la carpeta  “./ “ busca elementos dentro del mismo nivel
+
