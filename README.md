@@ -75,5 +75,7 @@ http://erikflowers.github.io/weather-icons/ // se descarga los css del clima
 npm install —save react-weather-icons
 https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css
 
+npm install prop-types //prototipes
+
 En la rutas “../” significa que subiremos un nivel de la carpeta  “./ “ busca elementos dentro del mismo nivel
 

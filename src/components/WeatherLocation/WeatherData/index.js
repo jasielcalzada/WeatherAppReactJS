@@ -2,26 +2,26 @@ import React from 'react';
 import WeatherExtraInfo from './WeatherExtraInfo';
 import WeatherTemperature from './WeatherTemperature';
 import {
-    CLOUD, 
+    /*CLOUD, */
     CLOUDY,
-    SUN, 
+    /*SUN, 
     RAIN,
     SNOW,
-    WINDY
-}from './../constants/weathers';
+    WINDY*/
+}from './../../../constants/weathers';
+import './styles.css';
 
-
-const icons = {
+/*onst icons = {
   [CLOUD]:"cloud",
   [CLOUDY]:"cloudy",
   [SUN]:"day-sunny",
   [RAIN]:"rain",
   [SNOW]:"snow",
   [WINDY]:"windy"
-};
+};*/
 
 const WeatherData = () => {
-  return  <div>
+  return  <div className="weatherDataCont">
         <WeatherTemperature 
          temperature={20}
          weatherState={CLOUDY}/>
