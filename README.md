@@ -79,3 +79,5 @@ npm install prop-types //prototipes
 
 En la rutas “../” significa que subiremos un nivel de la carpeta  “./ “ busca elementos dentro del mismo nivel
 
+https://www.cssmatic.com/border-radius
+
